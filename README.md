@@ -1,4 +1,17 @@
-## File Integrity Monitoring Script
+# Lakshman - File Integrity Monitoring Script
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : S SAI LAKSHMAN GOUD
+
+**INTERN ID** : CT08LJQ
+
+**DOMAIN** : CYBER SECURITY & ETHICAL HACKING
+
+
+**BATCH DURATION** : January 30th,2025 to March 1st,2025
+
+**mentor name** : NEELA SANTHOSH KUMAR
+
 This Python script provides tools to efficiently check the integrity of files within a directory by comparing their hashes against a known list of valid hashes.
 
 ### Features
